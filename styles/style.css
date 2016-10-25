@@ -1,0 +1,26 @@
+*{
+	box-sizing: border-box;
+	/*border: solid 2px black;*/
+}
+
+/*big-container{
+	display: inline-block;
+}*/
+
+.repo{
+	float: right
+}
+
+.info-column{
+	display: inline-block;
+	vertical-align: top;
+	width: 50%;
+	padding: 3%;
+}
+
+img{
+	height: 233px;
+	display: inline-block;
+    vertical-align: middle;
+    border-radius: 6px;
+}
